@@ -1,4 +1,4 @@
-Spring boot + maven + mapstruct 1.2.0.Beta2 + Lombok
+Spring boot + maven + mapstruct 1.4.2.Final + Lombok
 ===============
 
 *Description*: Just the REST Spring Boot demo project with a maven configuration of mapstruct and lombok to work together.
